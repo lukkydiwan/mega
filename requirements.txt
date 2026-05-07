@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+sse-starlette
+sqlalchemy
+psycopg2-binary
+redis
+celery
+langgraph
+langchain-core
