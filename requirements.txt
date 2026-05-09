@@ -8,3 +8,5 @@ redis
 celery
 langgraph
 langchain-core
+langchain-google-genai
+tiktoken
